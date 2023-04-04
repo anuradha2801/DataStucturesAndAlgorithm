@@ -1,0 +1,1 @@
+{"name":"Local: 2-D_ARRAY_SpiralPrint","url":"c:\\Users\\91930\\Desktop\\dataStructure_cpp\\2-D_ARRAY_SpiralPrint.cpp","tests":[{"id":1646018277368,"input":"3 3\n1 2 3\n1 2 3\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91930\\Desktop\\dataStructure_cpp\\2-D_ARRAY_SpiralPrint.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"c:\\Users\\91930\\Desktop\\dataStructure_cpp\\insertion_sort.cpp","tests":[{"id":1643973179346,"input":"7\n10 1 7 4 8 2 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91930\\Desktop\\dataStructure_cpp\\insertion_sort.cpp","group":"local","local":true}
