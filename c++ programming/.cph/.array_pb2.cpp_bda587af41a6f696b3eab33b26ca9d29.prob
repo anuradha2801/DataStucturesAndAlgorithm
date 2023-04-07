@@ -1,1 +1,0 @@
-{"name":"Local: array_pb2","url":"c:\\Users\\91930\\Desktop\\c++ programming\\array_pb2.cpp","tests":[{"id":1623940813206,"input":"5\n3 2 4 6 2","output":""},{"id":1623940889165,"input":"6\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91930\\Desktop\\c++ programming\\array_pb2.cpp","group":"local","local":true}
